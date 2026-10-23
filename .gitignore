@@ -1,0 +1,11 @@
+.env
+.git/
+venv/
+java/
+nan.py
+OOPMetrics/
+
+*__pycache__/
+
+output.txt
+metrics.md
